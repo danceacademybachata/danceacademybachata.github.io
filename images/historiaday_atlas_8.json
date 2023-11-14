@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"CachedBmp_16":
+{
+	"frame": {"x":1867,"y":0,"w":181,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":181},
+	"sourceSize": {"w":181,"h":181}
+},
+"CachedBmp_17":
+{
+	"frame": {"x":1867,"y":183,"w":123,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":248},
+	"sourceSize": {"w":123,"h":248}
+},
+"CachedBmp_18":
+{
+	"frame": {"x":1675,"y":0,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":0,"w":1070,"h":612},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1070,"h":612},
+	"sourceSize": {"w":1070,"h":612}
+},
+"LinkedFile":
+{
+	"frame": {"x":1072,"y":0,"w":601,"h":676},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":676},
+	"sourceSize": {"w":601,"h":676}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "historiaday_atlas_8.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_5":
+{
+	"frame": {"x":0,"y":872,"w":1070,"h":965},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1070,"h":965},
+	"sourceSize": {"w":1070,"h":965}
+},
+"Image":
+{
+	"frame": {"x":0,"y":0,"w":1300,"h":870},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1300,"h":870},
+	"sourceSize": {"w":1300,"h":870}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "historiaday_atlas_7.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
